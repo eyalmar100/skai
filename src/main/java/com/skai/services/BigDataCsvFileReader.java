@@ -20,7 +20,7 @@ public class BigDataCsvFileReader implements Reader<Person> {
 	}
 	
 	/*
-	 * read lines  both tables in bulks according to memory constrains :
+	 * read lines from  both tables in bulks according to memory constrains :
 	 * read 
 	 */
 	@Override

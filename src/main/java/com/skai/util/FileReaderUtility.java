@@ -69,7 +69,7 @@ public class FileReaderUtility {
 				  continue;
 			  }
 			  person.setHoby(nextRecord[1]); 
-			System.out.println(nextRecord);
+			 
 		}
 
 	}
